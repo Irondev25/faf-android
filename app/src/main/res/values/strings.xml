@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FacultyAchivementForum</string>
+    <string name="menu_login">Login</string>
+    <string name="menu_signup">Signup</string>
+    <string name="menu_home">Home</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string name="api_url">https://irondev25.pythonanywhere.com</string>
+</resources>

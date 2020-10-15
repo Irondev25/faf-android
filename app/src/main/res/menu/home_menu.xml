@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group android:checkableBehavior="single"
+        android:id="@+id/home_menu_group">
+        <item
+            android:id="@+id/home"
+            android:title="@string/menu_home"
+            android:icon="@drawable/ic_home"/>
+        <item
+            android:id="@+id/login"
+            android:title="@string/menu_login"
+            android:icon="@drawable/ic_signin"/>
+        <item
+            android:id="@+id/singup"
+            android:title="@string/menu_signup"
+            android:icon="@drawable/ic_sign_up"/>
+    </group>
+</menu>
